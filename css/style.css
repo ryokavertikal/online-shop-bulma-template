@@ -1,5 +1,23 @@
-body {
-  background: limegreen;
-  margin: 0;
-  padding: 0;
- }
+.nav-col {
+    background-color: rgb(167, 51, 60) !important;
+}
+
+.hero-col {
+    background: rgb(236, 230, 236);
+}
+
+.btn-cart {
+    background: rgb(31, 165, 91);
+    color: white;
+    border-style: none;
+    padding: 20px 25px;
+    font-size: 16px;
+}
+
+.btn-cart:hover {
+    background: rgb(7, 134, 64);
+}
+
+.navbar-burger {
+    color: white !important;
+}
