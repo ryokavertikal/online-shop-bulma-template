@@ -18,6 +18,10 @@
     background: rgb(7, 134, 64);
 }
 
+.navbar-start a.navbar-item:hover {
+    background-color: rgb(134, 38, 38);
+}
+
 .navbar-burger {
     color: white !important;
 }
